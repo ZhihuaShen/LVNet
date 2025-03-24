@@ -2,7 +2,12 @@
 <h1 align="center"> Low-Level Matters: An Efficient Hybrid Architecture for Robust Multi-frame Infrared Small Target Detection </h1> 
 <div class="alert alert-info">
 <p align="center">
-  <img src="./pic/compare.pdf" alt="representation comparison" width="600" />
+  <img src="./pic/Architecture.jpg" alt="representation comparison" width="600" />
+</p>
+</div>
+<div class="alert alert-info">
+<p align="center">
+  <img src="./pic/compare.jpg" alt="representation comparison" width="600" />
 </p>
 </div>
 ## Datasets
