@@ -11,7 +11,7 @@ Multi-frame infrared small target detection (IRSTD) plays a crucial role in low-
 
 # Architecture
 <p align="center">
-  <img src="pic/Architecture.jpg" width="auto" alt="accessibility text">
+  <img src="Architecture.jpg" width="auto" alt="accessibility text">
 </p>
 Overall Architecture of LMAFormer.
 
