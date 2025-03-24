@@ -7,7 +7,7 @@
 </div>
 <div class="alert alert-info">
 <p align="center">
-  <img src="./pic/compare.jpg" alt="representation comparison" width="600" />
+  <img src="./pic/compare.jpg" alt="representation comparison" width="400" />
 </p>
 </div>
 ## Datasets
