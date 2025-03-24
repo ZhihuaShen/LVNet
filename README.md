@@ -1,4 +1,3 @@
-# LVNet
 <h1 align="center"> Low-Level Matters: An Efficient Hybrid Architecture for Robust Multi-frame Infrared Small Target Detection </h1> 
 [Code](https://github.com/ZhihuaShen/LVNet) - [Paper](https://arxiv.org/pdf/2503.02220)
 <div class="alert alert-info">
